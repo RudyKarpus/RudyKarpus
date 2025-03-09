@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 I'm Szymon Kamiński, a passionate developer with a keen interest in mobile and systems programming. Welcome to my GitHub profile!
 

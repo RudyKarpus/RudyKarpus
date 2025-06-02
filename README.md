@@ -4,7 +4,7 @@ I'm Szymon Kamiński, a passionate developer with a keen interest in mobile and 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,androidstudio,firebase,gradle,haskell" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,androidstudio,firebase,gradle,haskell,rust" />
 </a>
 
   
@@ -16,17 +16,19 @@ I'm Szymon Kamiński, a passionate developer with a keen interest in mobile and 
 
 Here are some of the projects I've worked on:
 
-### [Computer Architecture - ARKO](https://github.com/RudyKarpus/Comptuter-Architecture---ARKO)
+### [CSV Translation Tool](https://github.com/Kerciu/csv-translation-tool)
 
-A collection of assignments and projects from my Computer Architecture course, implemented in C. This repository showcases my understanding of low-level programming and system design.
+Web app for semi-automatic CSV translation | AI-assisted (MarianMT) + human validation. **Python Django** backend with **Rust** translation model + **React** Frontend.
 
-### [Operating Systems - SOI](https://github.com/RudyKarpus/Operating-systems---SOI)
 
-Coursework and projects related to Operating Systems, focusing on process management, memory allocation, and system calls,  implemented in C and C++.
+### [Graphics Rendering in Assembly](https://github.com/RudyKarpus/Graphics-Rendering-in-Assembly)
 
-### [Wheel Of Fortune](https://github.com/RudyKarpus/Wheel-Of-Fortune)
+Implementation of **Xiaolin-Wu'n** line antialiasing alghorithm in **RISC-V** and **C** + **x86 Assembly**  mandelbrot set rendering.
 
-A Python-based implementation of the classic "Wheel of Fortune" game, demonstrating my skills in game development and Python programming.
+
+### [Duplicate files detection app](https://github.com/RudyKarpus/Duplicate-files-detection-app)
+
+Simple app allowing user to detect and delete duplicate files. **Python** high-level logic and threading + **Rust** model to enhance the efficiency of critical tasks.
 
 ## 📫 How to Reach Me
 
